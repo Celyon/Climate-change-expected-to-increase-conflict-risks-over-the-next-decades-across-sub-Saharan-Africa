@@ -16,9 +16,9 @@ We acknowledge to authors of R packages used in this study.
 
 Operating systems: Win 7/8/10.
 
-Software: R (Version X64 4.2.3)
+Software: R (Version X64 4.2.3).
 
-Memory capacity: 16G/32G/64G
+Memory capacity: 16G/32G/64G.
 
 Note: It is recommended to build an operating environment on a workstation or server.
 
